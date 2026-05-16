@@ -1,26 +1,34 @@
 ## 1. Reading Research Papers
 
-整合论文资源，记录理解程度
+**整合论文资源，记录理解程度**
 
 1. 收集和研究主题相关的资源。这些资源可以是**研究论文、Medium 文章、博客、视频、GitHub 项目**等等。
 
 2. **<span style="color: inherit; background-color: rgba(255,246,122,0.8)">跟踪记录对列表内每一项资源的理解程度（至关重要）【分级理解】</span>**
 
-   * **建议先至少对列表中的每项资源有10-20%的理解。这可以确保你对收集到的资源有足够的整体性了解，从而能够准确判断它与研究主题的相关度。**
-
-   * **与主题相关性高的重要文章多花点时间（多读几遍），不重要的略读（跳过）即可。对于相关度最高的论文或资源，你可以进行更深层次的理解。**
-
 3) **用自己的语言，将资源的<span style="color: inherit; background-color: rgba(255,246,122,0.8)">核心发现和技术</span>有条理的记录下来【<span style="color: inherit; background-color: rgba(255,246,122,0.8)">做结构化的笔记，用你自己的话总结</span>】**
 
+* **<span style="color: inherit; background-color: rgba(255,246,122,0.8)">建议先至少对列表中的每项资源有10-20%的理解。这可以确保你对收集到的资源有足够的整体性了解，从而能够准确判断它与研究主题的相关度。</span>**
+
+* **<span style="color: inherit; background-color: rgba(255,246,122,0.8)">与主题相关性高的重要文章多花点时间（多读几遍），不重要的略读（跳过）即可。对于相关度最高的论文或资源，你可以进行更深层次的理解。</span>**
+
+
+
 基本上，具体地说，试着快速浏览并理解每一篇文章，而不是全部读完，也许你读了每一篇文章的10-20%，也许这足以让你对手头的文章有一个高水平的理解。在那之后，你可能会决定删除其中的一些论文，或者只是浏览一两篇论文，把它们通读一遍。
+
+
 
 你应&#x8BE5;**<span style="color: inherit; background-color: rgba(255,246,122,0.8)">以一种并行的方式阅读研究论文</span>**（一次处理多篇论文）:
 
 ![5b36b5de8f57f2131a89c3b0e94f9d18](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/How%20to%20Read%20a%20Paper_for_zhihu/5b36b5de8f57f2131a89c3b0e94f9d18.png)
 
+
+
 吴恩达教授建议，用一个表格记录自己对相关资源的理解（**建议使用资源理解程度表**），类似下图所示：
 
 ![6034de2fbd3c481fe709bdd4e7b84394](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/How%20to%20Read%20a%20Paper_for_zhihu/6034de2fbd3c481fe709bdd4e7b84394.png)
+
+
 
 **多少论文/资源才足够？**
 
@@ -38,21 +46,23 @@
 
     * 快读，领略大意，判断是否值得阅读。要点：发现不感兴趣，随时停止阅读！
 
-* **第2遍**：reading the following sections: **introduction, conclusion, another pass through figures, scan through the rest of the content.**
+    * 第1遍，也可以title, abstract, and conclusion（李沐老师建议），阅读论文时，首先阅读title, abstract, conclusion, figures, introductions.
 
-  * **抓住主要思想**
+  * **第2遍**：reading the following sections: **introduction, conclusion, another pass through figures, scan through the rest of the content.**
 
-* **第3遍**：reading **the whole sections** within the paper but **skipping any complicated maths or technique formulations** that might be alien to you. During this pass, you can also **skip any terms and terminologies that you do not understand or aren’t familiar.**
+    * **抓住主要思想**
 
-  * **纵览论文主体，那些耗费时间的数学与推导部分可以暂时跳过，我们掌握整体脉络与框架就行。**
+  * **第3遍**：reading **the whole sections** within the paper but **skipping any complicated maths or technique formulations** that might be alien to you. During this pass, you can also **skip any terms and terminologies that you do not understand or aren’t familiar.**
 
-* **第N遍：回头看**
+    * **纵览论文主体，那些耗费时间的数学与推导部分可以暂时跳过，我们掌握整体脉络与框架就行。**
 
-  * **回过头再来理解论文中复杂的的数学和公式，以及不了解的的术语**
+  * **第N遍：回头看**
 
-    * 如若要深入理解一个领域，这些公式和术语还是必须搞懂的。
+    * **回过头再来理解论文中复杂的的数学和公式，以及不了解的的术语**
 
-    * 这时候肯定还会有一些部分不能理解，那么暂时跳过它们以后再攻坚。
+      * 如若要深入理解一个领域，这些公式和术语还是必须搞懂的。
+
+      * 这时候肯定还会有一些部分不能理解，那么暂时跳过它们以后再攻坚。
 
 * **<span style="color: inherit; background-color: rgba(255,246,122,0.8)">尝试重新推导数学并通过编程实现来练习。</span>**
 
@@ -65,10 +75,6 @@
   * 下载开源代码(如果你能找到的话)并运行它。
 
   * 从头开始重新实现：如果你能够做到这一点，那么这是一个强烈的信号，表明你已经真正理解了手头的算法。
-
-**注：**
-
-第1遍，也可以title, abstract, and conclusion（李沐老师建议），阅读论文时，首先阅读title, abstract, conclusion, figures, introductions.
 
 
 
@@ -88,7 +94,7 @@
 
   2. 如果论文中提出了新的方法/技术，那么新方法的关键要素是什么【方法关键要素】
 
-  3) 这篇论文中哪些内容对你来说是有用的？【useful for you】
+  3. 这篇论文中哪些内容对你来说是有用的？【useful for you】
 
   4) 你还想要阅读哪些参考资料？【other references, 阅读拓展】
 
@@ -107,6 +113,9 @@
 ## 3. 阅读就是在你大脑中建立认知模型的过程。
 
 **<span style="color: inherit; background-color: rgba(255,246,122,0.8)">保持阅读，不断构筑你的认知模型。</span>**
+
+> **我想再次强调，大家一定要有耐心，因为<span style="color: inherit; background-color: rgba(255,246,122,0.8)">阅读就是在你大脑中建立认知模型的过程</span>**，**虽然不知道今天读的文章/书未来什么时候能够派上用场，但是请大家保持阅读、建立认知的习惯。**
+> ——沈向洋@微软亚洲研究院
 
 
 

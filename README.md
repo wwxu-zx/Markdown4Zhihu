@@ -13,7 +13,7 @@
 
 其中 `Pillow` 是图片处理必需依赖，`chardet` 用于更准确地自动检测输入文件编码。即使没有 `chardet`，脚本现在也可以运行，但仍然推荐安装。
 
-如果您准备使用 `sh scripts/publish.sh` 这个 zip 包入口，还需要系统里有 `unzip` 命令。macOS 和大多数 Linux 发行版通常默认自带；如果没有，脚本会直接提示缺少该命令。
+如果您准备使用 `sh scripts/publish-zip.sh` 这个 zip 包入口，还需要系统里有 `unzip` 命令。macOS 和大多数 Linux 发行版通常默认自带；如果没有，脚本会直接提示缺少该命令。
 
 ## 使用方法
 
@@ -27,9 +27,9 @@
 
    `--repo-prefix="https://raw.githubusercontent.com/<用户名>/<仓库名>/<分支名>/Data/"`
 
-3. 如果您的原始材料已经打成 zip 包并放在 `Resource/` 目录下，推荐直接使用更友好的脚本入口：
+3. 如果您的原始材料已经打成 zip 包并放在 `Resource/` 目录下，推荐使用 zip 发布脚本：
 
-   `sh scripts/publish.sh AlexNet`
+   `sh scripts/publish-zip.sh AlexNet`
 
    这条命令会自动：
    - 找到 `Resource/AlexNet.zip`
@@ -37,19 +37,29 @@
    - 读取 `Resource/AlexNet/AlexNet.md`
    - 调用 `zhihu-publisher.py` 完成发布转换
 
-   为了避免旧解压内容残留影响发布结果，`publish.sh` 每次都会以 zip 包为准，重新生成同名解压目录。
+   为了避免旧解压内容残留影响发布结果，`publish-zip.sh` 每次都会以 zip 包为准，重新生成同名解压目录。
 
    您也可以直接传 zip 路径：
 
-   `sh scripts/publish.sh Resource/AlexNet.zip`
+   `sh scripts/publish-zip.sh Resource/AlexNet.zip`
 
    其他参数会继续透传给 `zhihu-publisher.py`，例如：
 
-   `sh scripts/publish.sh AlexNet --compress`
+   `sh scripts/publish-zip.sh AlexNet --compress`
 
-   `sh scripts/publish.sh AlexNet --git-mode=push`
+   `sh scripts/publish-zip.sh AlexNet --git-mode=push`
 
-4. 如果您已经有一个现成的 Markdown 文件路径，也可以直接调用主脚本，例如：
+4. 如果您已经有一个现成的 Markdown 文件路径，可以使用专门的 Markdown 发布脚本：
+
+   `sh scripts/publish-md.sh "C:\Users\xxx\Downloads\一个测试文档.md"`
+
+   其他参数同样会透传给 `zhihu-publisher.py`，例如：
+
+   `sh scripts/publish-md.sh "C:\Users\xxx\Downloads\一个测试文档.md" --compress`
+
+   `sh scripts/publish-md.sh "C:\Users\xxx\Downloads\一个测试文档.md" --git-mode=push`
+
+   如果您更希望直接调用主脚本，也仍然可以继续这样使用：
 
    `python zhihu-publisher.py --input="C:\Users\xxx\Downloads\一个测试文档.md"`
 
@@ -62,9 +72,13 @@
 
   `python zhihu-publisher.py --input="..." --data-dir="/tmp/markdown4zhihu-output"`
 
-- 如果您忘了 `publish.sh` 的参数，也可以随时查看帮助：
+- 如果您忘了 zip 发布脚本的参数，也可以随时查看帮助：
 
-  `sh scripts/publish.sh --help`
+  `sh scripts/publish-zip.sh --help`
+
+- Markdown 路径发布脚本也支持帮助：
+
+  `sh scripts/publish-md.sh --help`
 
 - 当前回归测试可以直接运行：
 

@@ -12,7 +12,9 @@ from PIL import Image
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 SCRIPT_PATH = REPO_ROOT / "zhihu-publisher.py"
-PUBLISH_SCRIPT_PATH = REPO_ROOT / "scripts" / "publish.sh"
+PUBLISH_COMPAT_SCRIPT_PATH = REPO_ROOT / "scripts" / "publish.sh"
+PUBLISH_SCRIPT_PATH = REPO_ROOT / "scripts" / "publish-zip.sh"
+PUBLISH_MD_SCRIPT_PATH = REPO_ROOT / "scripts" / "publish-md.sh"
 
 
 def run_command(command, cwd):
@@ -37,7 +39,12 @@ class ZhihuPublisherIntegrationTests(unittest.TestCase):
         (self.repo / "Data").mkdir()
         (self.repo / "scripts").mkdir()
         shutil.copy(str(SCRIPT_PATH), str(self.repo / "zhihu-publisher.py"))
-        shutil.copy(str(PUBLISH_SCRIPT_PATH), str(self.repo / "scripts" / "publish.sh"))
+        shutil.copy(str(PUBLISH_COMPAT_SCRIPT_PATH), str(self.repo / "scripts" / "publish.sh"))
+        shutil.copy(str(PUBLISH_SCRIPT_PATH), str(self.repo / "scripts" / "publish-zip.sh"))
+        shutil.copy(
+            str(PUBLISH_MD_SCRIPT_PATH),
+            str(self.repo / "scripts" / "publish-md.sh"),
+        )
 
         init_result = run_command(["git", "init"], self.repo)
         self.assertEqual(init_result.returncode, 0, init_result.stdout)
@@ -198,6 +205,36 @@ class ZhihuPublisherIntegrationTests(unittest.TestCase):
         output_text = output_path.read_text(encoding="utf-8")
         self.assertIn("一篇很长的中文文章标题_for_zhihu/题图.png", output_text)
 
+    def test_repeated_article_prefixes_are_removed_from_screenshot_names(self):
+        article_dir = self.repo / "article"
+        article_dir.mkdir()
+
+        image_name = "article-article-screenshot_20260321_210334-1.jpg"
+        Image.new("RGB", (80, 80), "blue").save(str(article_dir / image_name))
+
+        (self.repo / "article.md").write_text(
+            "![shot](article/{})\n".format(image_name),
+            encoding="utf-8",
+        )
+
+        result = run_command(
+            [sys.executable, "zhihu-publisher.py", "--input", "article.md"],
+            self.repo,
+        )
+        self.assertEqual(result.returncode, 0, result.stdout)
+
+        output_dir = self.repo / "Data" / "article_for_zhihu"
+        self.assertTrue((output_dir / "screenshot-20260321-210334-1.jpg").exists())
+        self.assertFalse((output_dir / image_name).exists())
+
+        output_text = (self.repo / "Data" / "article_for_zhihu.md").read_text(
+            encoding="utf-8"
+        )
+        self.assertIn(
+            "article_for_zhihu/screenshot-20260321-210334-1.jpg",
+            output_text,
+        )
+
     def test_unescapes_square_brackets_outside_code_fences(self):
         (self.repo / "article.md").write_text(
             "Intervals: \\[0, 10], \\[11, 20]\n\n"
@@ -233,7 +270,7 @@ class ZhihuPublisherIntegrationTests(unittest.TestCase):
         )
 
         first_result = run_command(
-            ["sh", "scripts/publish.sh", "Article"],
+            ["sh", "scripts/publish-zip.sh", "Article"],
             self.repo,
         )
         self.assertEqual(first_result.returncode, 0, first_result.stdout)
@@ -246,7 +283,7 @@ class ZhihuPublisherIntegrationTests(unittest.TestCase):
         )
 
         second_result = run_command(
-            ["sh", "scripts/publish.sh", "Article"],
+            ["sh", "scripts/publish-zip.sh", "Article"],
             self.repo,
         )
         self.assertEqual(second_result.returncode, 0, second_result.stdout)
@@ -262,6 +299,65 @@ class ZhihuPublisherIntegrationTests(unittest.TestCase):
 
         output_image_path = self.repo / "Data" / "Article_for_zhihu" / "pic.png"
         self.assertFalse(output_image_path.exists())
+
+    def test_publish_md_script_wraps_direct_input_mode(self):
+        article_dir = self.repo / "articles"
+        article_dir.mkdir()
+        Image.new("RGB", (80, 80), "purple").save(str(article_dir / "cover.png"))
+        article_path = article_dir / "Article.md"
+        article_path.write_text("![cover](cover.png)\n", encoding="utf-8")
+
+        result = run_command(
+            ["sh", "scripts/publish-md.sh", "articles/Article.md"],
+            self.repo,
+        )
+        self.assertEqual(result.returncode, 0, result.stdout)
+
+        output_text = (self.repo / "Data" / "Article_for_zhihu.md").read_text(
+            encoding="utf-8"
+        )
+        self.assertIn("Article_for_zhihu/cover.png", output_text)
+        self.assertTrue((self.repo / "Data" / "Article_for_zhihu" / "cover.png").exists())
+
+    def test_publish_md_script_accepts_relative_path_from_outside_repo(self):
+        article_dir = self.temp_dir / "outside"
+        article_dir.mkdir()
+        Image.new("RGB", (80, 80), "yellow").save(str(article_dir / "cover.png"))
+        article_path = article_dir / "Article.md"
+        article_path.write_text("![cover](cover.png)\n", encoding="utf-8")
+
+        result = run_command(
+            ["sh", str(self.repo / "scripts" / "publish-md.sh"), "Article.md"],
+            article_dir,
+        )
+        self.assertEqual(result.returncode, 0, result.stdout)
+
+        output_text = (self.repo / "Data" / "Article_for_zhihu.md").read_text(
+            encoding="utf-8"
+        )
+        self.assertIn("Article_for_zhihu/cover.png", output_text)
+        self.assertTrue((self.repo / "Data" / "Article_for_zhihu" / "cover.png").exists())
+
+    def test_publish_sh_compat_wrapper_still_works(self):
+        if shutil.which("unzip") is None:
+            self.skipTest("unzip command not available")
+
+        self.create_article_zip(
+            "LegacyArticle",
+            "![x](images/pic.png)\n",
+            images={"images/pic.png": "orange"},
+        )
+
+        result = run_command(
+            ["sh", "scripts/publish.sh", "LegacyArticle"],
+            self.repo,
+        )
+        self.assertEqual(result.returncode, 0, result.stdout)
+
+        output_text = (self.repo / "Data" / "LegacyArticle_for_zhihu.md").read_text(
+            encoding="utf-8"
+        )
+        self.assertIn("LegacyArticle_for_zhihu/pic.png", output_text)
 
 
 if __name__ == "__main__":
