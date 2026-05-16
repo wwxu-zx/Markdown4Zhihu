@@ -16,11 +16,11 @@
 
 你应&#x8BE5;**<span style="color: inherit; background-color: rgba(255,246,122,0.8)">以一种并行的方式阅读研究论文</span>**（一次处理多篇论文）:
 
-![5b36b5de8f57f2131a89c3b0e94f9d18](https://cdn.jsdelivr.net/gh/wwxu-zx/Markdown4Zhihu@master/Data/How%20to%20Read%20a%20Paper_for_zhihu/5b36b5de8f57f2131a89c3b0e94f9d18.png)
+![5b36b5de8f57f2131a89c3b0e94f9d18](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/How%20to%20Read%20a%20Paper_for_zhihu/5b36b5de8f57f2131a89c3b0e94f9d18.png)
 
 吴恩达教授建议，用一个表格记录自己对相关资源的理解（**建议使用资源理解程度表**），类似下图所示：
 
-![6034de2fbd3c481fe709bdd4e7b84394](https://cdn.jsdelivr.net/gh/wwxu-zx/Markdown4Zhihu@master/Data/How%20to%20Read%20a%20Paper_for_zhihu/6034de2fbd3c481fe709bdd4e7b84394.png)
+![6034de2fbd3c481fe709bdd4e7b84394](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/How%20to%20Read%20a%20Paper_for_zhihu/6034de2fbd3c481fe709bdd4e7b84394.png)
 
 **多少论文/资源才足够？**
 

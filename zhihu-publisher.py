@@ -25,7 +25,7 @@ DEFAULT_GITHUB_REPO_PREFIX = (
     "https://raw.githubusercontent.com/wwxu-zx/Markdown4Zhihu/master/Data/"
 )
 DEFAULT_JSDELIVR_REPO_PREFIX = (
-    "https://cdn.jsdelivr.net/gh/wwxu-zx/Markdown4Zhihu@master/Data/"
+    "https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/"
 )
 DEFAULT_CDN_PROVIDER = "jsdelivr"
 COMPRESS_THRESHOLD = int(5e5)
@@ -157,7 +157,7 @@ def infer_repo_prefix(remote_name, branch_name, cdn_provider):
         )
 
     return normalize_repo_prefix(
-        "https://cdn.jsdelivr.net/gh/{}{}{}".format(
+        "https://cdn.jsdmirror.com/gh/{}{}{}".format(
             owner,
             "/{}".format(repo),
             "@{}/Data".format(encoded_branch),
@@ -304,34 +304,65 @@ def strip_known_prefix(file_name, prefix):
     return file_name
 
 
+def strip_known_prefixes(file_name, prefixes):
+    stripped_name = file_name
+
+    while True:
+        updated_name = stripped_name
+        for prefix in prefixes:
+            updated_name = strip_known_prefix(updated_name, prefix)
+
+        if updated_name == stripped_name:
+            return stripped_name
+
+        stripped_name = updated_name
+
+
 def normalize_screenshot_name(file_name):
     path_obj = Path(file_name)
     stem = path_obj.stem.strip()
     suffix = path_obj.suffix or ""
 
-    match = re.match(
-        (
-            r"^(?:截图|截屏|屏幕截图|屏幕快照|screenshot|screen[\s_-]?shot)"
-            r"[\s_-]*(?P<year>\d{4})[-_.](?P<month>\d{1,2})[-_.](?P<day>\d{1,2})"
-            r"(?:[\s_-]+(?:at[\s_-]+)?)?"
-            r"(?:(?P<ampm>上午|下午|AM|PM|am|pm)[\s_-]*)?"
-            r"(?P<hour>\d{1,2})[.:](?P<minute>\d{1,2})[.:](?P<second>\d{1,2})"
-            r"(?:[\s_-]+(?P<copy_index>\d+))?$"
+    patterns = [
+        re.compile(
+            (
+                r"^(?:截图|截屏|屏幕截图|屏幕快照|screenshot|screen[\s_-]?shot)"
+                r"[\s_-]*(?P<year>\d{4})[-_.](?P<month>\d{1,2})[-_.](?P<day>\d{1,2})"
+                r"(?:[\s_-]+(?:at[\s_-]+)?)?"
+                r"(?:(?P<ampm>上午|下午|AM|PM|am|pm)[\s_-]*)?"
+                r"(?P<hour>\d{1,2})[.:](?P<minute>\d{1,2})[.:](?P<second>\d{1,2})"
+                r"(?:[\s_-]+(?P<copy_index>\d+))?$"
+            ),
+            re.IGNORECASE,
         ),
-        stem,
-        re.IGNORECASE,
-    )
-    if not match:
+        re.compile(
+            (
+                r"^(?:截图|截屏|屏幕截图|屏幕快照|screenshot|screen[\s_-]?shot)"
+                r"[\s_-]*(?P<year>\d{4})(?P<month>\d{2})(?P<day>\d{2})"
+                r"[\s_-]+(?P<hour>\d{2})(?P<minute>\d{2})(?P<second>\d{2})"
+                r"(?:[\s_-]+(?P<copy_index>\d+))?$"
+            ),
+            re.IGNORECASE,
+        ),
+    ]
+
+    match = None
+    for pattern in patterns:
+        match = pattern.match(stem)
+        if match:
+            break
+
+    if match is None:
         return file_name
 
     hour = int(match.group("hour"))
-    ampm = (match.group("ampm") or "").lower()
+    ampm = (match.groupdict().get("ampm") or "").lower()
     if ampm in {"pm", "下午"} and hour < 12:
         hour += 12
     if ampm in {"am", "上午"} and hour == 12:
         hour = 0
 
-    normalized_stem = "screenshot_{year}{month:02d}{day:02d}_{hour:02d}{minute:02d}{second:02d}".format(
+    normalized_stem = "screenshot-{year}{month:02d}{day:02d}-{hour:02d}{minute:02d}{second:02d}".format(
         year=match.group("year"),
         month=int(match.group("month")),
         day=int(match.group("day")),
@@ -340,18 +371,19 @@ def normalize_screenshot_name(file_name):
         second=int(match.group("second")),
     )
     if match.group("copy_index"):
-        normalized_stem += "_{}".format(int(match.group("copy_index")))
+        normalized_stem += "-{}".format(int(match.group("copy_index")))
     return normalized_stem + suffix.lower()
 
 
 def simplify_image_name(source_path):
-    base_name = source_path.name
-    for prefix in (
+    base_name = strip_known_prefixes(
+        source_path.name,
+        (
         args.input.stem,
         args.input.stem + "_for_zhihu",
         args.asset_dir_name,
-    ):
-        base_name = strip_known_prefix(base_name, prefix)
+        ),
+    )
 
     return normalize_screenshot_name(base_name)
 
