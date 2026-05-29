@@ -6,11 +6,11 @@
 
 ### 1. **<span style="color: inherit; background-color: rgba(255,246,122,0.8)">学会品味微快乐【好心态，品味微快乐】</span>**
 
-![screenshot-20260321-210334-1](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第一期：对话浙大“百人计划”研究员彭思达：如何从保研小白成长为CCF优博？_for_zhihu/screenshot-20260321-210334-1.jpg)
+![49fcadca-55ff-49a2-bf9d-6967a3c43e27](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第一期：对话浙大“百人计划”研究员彭思达：如何从保研小白成长为CCF优博？_for_zhihu/49fcadca-55ff-49a2-bf9d-6967a3c43e27.jpg)
 
 
 
-![screenshot-20260321-210446-1](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第一期：对话浙大“百人计划”研究员彭思达：如何从保研小白成长为CCF优博？_for_zhihu/screenshot-20260321-210446-1.jpg)
+![9c3f19be-a2ef-4751-af10-c44f1726915b](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第一期：对话浙大“百人计划”研究员彭思达：如何从保研小白成长为CCF优博？_for_zhihu/9c3f19be-a2ef-4751-af10-c44f1726915b.jpg)
 
 * <span style="color: inherit; background-color: rgba(255,246,122,0.8)">降低快乐阈值，从小进步中收获微快乐，获得</span>**<span style="color: inherit; background-color: rgba(255,246,122,0.8)">微小正反馈</span>**<span style="color: inherit; background-color: rgba(255,246,122,0.8)">（即时reward让人上瘾，让人更容易坚持下去）。</span>
 
@@ -22,9 +22,9 @@
 
 ### 2. **<span style="color: inherit; background-color: rgba(255,246,122,0.8)">做所有事情不要怕犯错，不畏惧失败</span>**
 
-![screenshot-20260321-210954-1](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第一期：对话浙大“百人计划”研究员彭思达：如何从保研小白成长为CCF优博？_for_zhihu/screenshot-20260321-210954-1.jpg)
+![84c818a1-b715-4d65-a4d1-77b18db99afd](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第一期：对话浙大“百人计划”研究员彭思达：如何从保研小白成长为CCF优博？_for_zhihu/84c818a1-b715-4d65-a4d1-77b18db99afd.jpg)
 
-![screenshot-20260321-211012-1](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第一期：对话浙大“百人计划”研究员彭思达：如何从保研小白成长为CCF优博？_for_zhihu/screenshot-20260321-211012-1.jpg)
+![e6dfadce-6a86-4bf1-a80e-685fff7efe2f](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第一期：对话浙大“百人计划”研究员彭思达：如何从保研小白成长为CCF优博？_for_zhihu/e6dfadce-6a86-4bf1-a80e-685fff7efe2f.jpg)
 
 * **<span style="color: inherit; background-color: rgba(255,246,122,0.8)">重新理解“实践”与“认知”的关系，以及失败的真正价值。</span>**
 
@@ -46,7 +46,7 @@
 
 ### 3. 你打你的，我打我的【**<span style="color: inherit; background-color: rgba(255,246,122,0.8)">先想清楚自己想要什么</span>**】
 
-![screenshot-20260321-211918](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第一期：对话浙大“百人计划”研究员彭思达：如何从保研小白成长为CCF优博？_for_zhihu/screenshot-20260321-211918.jpg)
+![348a9b50-1bb2-42a4-9947-e00a677b3f69](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第一期：对话浙大“百人计划”研究员彭思达：如何从保研小白成长为CCF优博？_for_zhihu/348a9b50-1bb2-42a4-9947-e00a677b3f69.jpg)
 
 * **<span style="color: inherit; background-color: rgba(255,246,122,0.8)">思考在前</span>**，有了目标再行动【不要忽视思考；Goal-driven】
 
@@ -60,7 +60,7 @@
 
 ### 4. 从行业中来，到行业中去
 
-![screenshot-20260321-212501](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第一期：对话浙大“百人计划”研究员彭思达：如何从保研小白成长为CCF优博？_for_zhihu/screenshot-20260321-212501.jpg)
+![3b9d5e64-8bc5-43ba-a2dc-323756d6f2de](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第一期：对话浙大“百人计划”研究员彭思达：如何从保研小白成长为CCF优博？_for_zhihu/3b9d5e64-8bc5-43ba-a2dc-323756d6f2de.jpg)
 
 * 去解决真实的问题，服务社会发展，推动社会进步【马斯洛需求层次理论，自我实现，价值感】
 
@@ -100,7 +100,7 @@
 
 ### 7. 收获的认知
 
-![screenshot-20260321-214007](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第一期：对话浙大“百人计划”研究员彭思达：如何从保研小白成长为CCF优博？_for_zhihu/screenshot-20260321-214007.jpg)
+![2cd3689f-834b-4e27-8b2c-fe6bb86611cf](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第一期：对话浙大“百人计划”研究员彭思达：如何从保研小白成长为CCF优博？_for_zhihu/2cd3689f-834b-4e27-8b2c-fe6bb86611cf.jpg)
 
 * 从小白到大牛的成长历程：层层递进，不断升级打怪，越来越强。
 
@@ -130,39 +130,41 @@
 
 ## **附录：B站视频部分截图**
 
-![screenshot-20260321-210334](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第一期：对话浙大“百人计划”研究员彭思达：如何从保研小白成长为CCF优博？_for_zhihu/screenshot-20260321-210334.jpg)
+![3d800961-06c6-4fb7-9e02-a1af9b5129fc](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第一期：对话浙大“百人计划”研究员彭思达：如何从保研小白成长为CCF优博？_for_zhihu/3d800961-06c6-4fb7-9e02-a1af9b5129fc.jpg)
 
 
 
-![screenshot-20260321-210446](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第一期：对话浙大“百人计划”研究员彭思达：如何从保研小白成长为CCF优博？_for_zhihu/screenshot-20260321-210446.jpg)
+![b2e49111-864e-4e3d-96c0-bb9b239b37ab](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第一期：对话浙大“百人计划”研究员彭思达：如何从保研小白成长为CCF优博？_for_zhihu/b2e49111-864e-4e3d-96c0-bb9b239b37ab.jpg)
 
 
 
-![screenshot-20260321-210954](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第一期：对话浙大“百人计划”研究员彭思达：如何从保研小白成长为CCF优博？_for_zhihu/screenshot-20260321-210954.jpg)
+![d619dfe5-2d44-473c-a745-3f59ff2c57d2](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第一期：对话浙大“百人计划”研究员彭思达：如何从保研小白成长为CCF优博？_for_zhihu/d619dfe5-2d44-473c-a745-3f59ff2c57d2.jpg)
 
 
 
-![screenshot-20260321-211012](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第一期：对话浙大“百人计划”研究员彭思达：如何从保研小白成长为CCF优博？_for_zhihu/screenshot-20260321-211012.jpg)
+![642d03e9-a380-4357-9ec0-617969c5cc28](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第一期：对话浙大“百人计划”研究员彭思达：如何从保研小白成长为CCF优博？_for_zhihu/642d03e9-a380-4357-9ec0-617969c5cc28.jpg)
 
 
 
-![screenshot-20260321-211918-1](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第一期：对话浙大“百人计划”研究员彭思达：如何从保研小白成长为CCF优博？_for_zhihu/screenshot-20260321-211918-1.jpg)
+![63035e8c-9341-41f0-b3a8-c1492761122f](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第一期：对话浙大“百人计划”研究员彭思达：如何从保研小白成长为CCF优博？_for_zhihu/63035e8c-9341-41f0-b3a8-c1492761122f.jpg)
 
 
 
-![screenshot-20260321-212501-1](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第一期：对话浙大“百人计划”研究员彭思达：如何从保研小白成长为CCF优博？_for_zhihu/screenshot-20260321-212501-1.jpg)
+![0a6af8f8-5d23-4760-bbaa-89d4b4c6ebed](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第一期：对话浙大“百人计划”研究员彭思达：如何从保研小白成长为CCF优博？_for_zhihu/0a6af8f8-5d23-4760-bbaa-89d4b4c6ebed.jpg)
 
 
 
-![screenshot-20260321-214007-1](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第一期：对话浙大“百人计划”研究员彭思达：如何从保研小白成长为CCF优博？_for_zhihu/screenshot-20260321-214007-1.jpg)
+![1b4dc595-e871-4471-b22b-3d0db1d6ce88](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第一期：对话浙大“百人计划”研究员彭思达：如何从保研小白成长为CCF优博？_for_zhihu/1b4dc595-e871-4471-b22b-3d0db1d6ce88.jpg)
 
 
 
-![screenshot-20260322-165303](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第一期：对话浙大“百人计划”研究员彭思达：如何从保研小白成长为CCF优博？_for_zhihu/screenshot-20260322-165303.jpg)
+![18c73691-1f3d-4f7c-ae29-099c4893a15a](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第一期：对话浙大“百人计划”研究员彭思达：如何从保研小白成长为CCF优博？_for_zhihu/18c73691-1f3d-4f7c-ae29-099c4893a15a.jpg)
 
 
 
-![screenshot-20260322-165335](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第一期：对话浙大“百人计划”研究员彭思达：如何从保研小白成长为CCF优博？_for_zhihu/screenshot-20260322-165335.jpg)
+![34b6336b-d36b-46aa-b2c0-1361900c74e0](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第一期：对话浙大“百人计划”研究员彭思达：如何从保研小白成长为CCF优博？_for_zhihu/34b6336b-d36b-46aa-b2c0-1361900c74e0.jpg)
+
+
 
 
 

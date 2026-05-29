@@ -40,11 +40,11 @@
 
   * 也可以在某几个你感兴趣的方向写博客，该领域里面最新的一些文章，把它做一些初步分类
 
-  ![截屏2026-04-14 15.57.15-1-1](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第三期：上海交通大学长聘教轨助理教授杨学：如何做好系统性科研_for_zhihu/截屏2026-04-14%2015.57.15-1-1.png)
+  ![6e8a184b-f610-4e82-a62a-14e9325192aa](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第三期：上海交通大学长聘教轨助理教授杨学：如何做好系统性科研_for_zhihu/6e8a184b-f610-4e82-a62a-14e9325192aa.png)
 
 * 节奏、心态与自我管理
 
-  ![截屏2026-04-11 17.45.22-1-1](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第三期：上海交通大学长聘教轨助理教授杨学：如何做好系统性科研_for_zhihu/截屏2026-04-11%2017.45.22-1-1.png)
+  ![80d10334-2768-4cf4-8672-3f3c94d651ec](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第三期：上海交通大学长聘教轨助理教授杨学：如何做好系统性科研_for_zhihu/80d10334-2768-4cf4-8672-3f3c94d651ec.png)
 
 
 
@@ -64,7 +64,7 @@
 
     * 现在很多前沿机构并不在意论文有没有中，更多是&#x4EE5;**<span style="color: inherit; background-color: rgba(255,246,122,0.8)">技术报告</span>**&#x7684;方式放出来。
 
-![screenshot-20260414-101223](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第三期：上海交通大学长聘教轨助理教授杨学：如何做好系统性科研_for_zhihu/screenshot-20260414-101223.png)
+![5709cf44-efdd-4d34-9dee-3dfe251346fb](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第三期：上海交通大学长聘教轨助理教授杨学：如何做好系统性科研_for_zhihu/5709cf44-efdd-4d34-9dee-3dfe251346fb.png)
 
 
 
@@ -98,49 +98,49 @@
 
 ## **附录：B站视频部分截图**
 
-![screenshot-20260411-165901](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第三期：上海交通大学长聘教轨助理教授杨学：如何做好系统性科研_for_zhihu/screenshot-20260411-165901.png)
+![7fc48167-bf16-446f-9925-7301dd1b54e5](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第三期：上海交通大学长聘教轨助理教授杨学：如何做好系统性科研_for_zhihu/7fc48167-bf16-446f-9925-7301dd1b54e5.png)
 
 
 
-![screenshot-20260411-170213](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第三期：上海交通大学长聘教轨助理教授杨学：如何做好系统性科研_for_zhihu/screenshot-20260411-170213.png)
+![b706c40f-073c-4b51-b111-11a2783738d3](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第三期：上海交通大学长聘教轨助理教授杨学：如何做好系统性科研_for_zhihu/b706c40f-073c-4b51-b111-11a2783738d3.png)
 
 
 
-![screenshot-20260411-171349](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第三期：上海交通大学长聘教轨助理教授杨学：如何做好系统性科研_for_zhihu/screenshot-20260411-171349.png)
+![88864e74-5b01-4647-a70c-432b5b58fbdf](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第三期：上海交通大学长聘教轨助理教授杨学：如何做好系统性科研_for_zhihu/88864e74-5b01-4647-a70c-432b5b58fbdf.png)
 
 
 
-![screenshot-20260411-172938](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第三期：上海交通大学长聘教轨助理教授杨学：如何做好系统性科研_for_zhihu/screenshot-20260411-172938.png)
+![9097d4a3-4f8c-400c-9553-11fc2616f604](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第三期：上海交通大学长聘教轨助理教授杨学：如何做好系统性科研_for_zhihu/9097d4a3-4f8c-400c-9553-11fc2616f604.png)
 
 
 
-![screenshot-20260414-155715-1](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第三期：上海交通大学长聘教轨助理教授杨学：如何做好系统性科研_for_zhihu/screenshot-20260414-155715-1.png)
+![37c60496-ebff-45a4-9e61-5c209c050e94](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第三期：上海交通大学长聘教轨助理教授杨学：如何做好系统性科研_for_zhihu/37c60496-ebff-45a4-9e61-5c209c050e94.png)
 
 
 
-![screenshot-20260411-173658](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第三期：上海交通大学长聘教轨助理教授杨学：如何做好系统性科研_for_zhihu/screenshot-20260411-173658.png)
+![b57cc762-fbf0-42f0-b037-62d3730050ff](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第三期：上海交通大学长聘教轨助理教授杨学：如何做好系统性科研_for_zhihu/b57cc762-fbf0-42f0-b037-62d3730050ff.png)
 
 
 
-![screenshot-20260411-174314](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第三期：上海交通大学长聘教轨助理教授杨学：如何做好系统性科研_for_zhihu/screenshot-20260411-174314.png)
+![77f5bedf-99ed-4a8c-801e-00572a26301b](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第三期：上海交通大学长聘教轨助理教授杨学：如何做好系统性科研_for_zhihu/77f5bedf-99ed-4a8c-801e-00572a26301b.png)
 
 
 
-![screenshot-20260411-174522-1](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第三期：上海交通大学长聘教轨助理教授杨学：如何做好系统性科研_for_zhihu/screenshot-20260411-174522-1.png)
+![7c4af1c2-e4bb-4b52-bf2e-fc444a9d9d20](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第三期：上海交通大学长聘教轨助理教授杨学：如何做好系统性科研_for_zhihu/7c4af1c2-e4bb-4b52-bf2e-fc444a9d9d20.png)
 
 
 
-![screenshot-20260411-174946](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第三期：上海交通大学长聘教轨助理教授杨学：如何做好系统性科研_for_zhihu/screenshot-20260411-174946.png)
+![4e29a356-5b17-4817-9e61-156d9ebd8b2a](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第三期：上海交通大学长聘教轨助理教授杨学：如何做好系统性科研_for_zhihu/4e29a356-5b17-4817-9e61-156d9ebd8b2a.png)
 
 
 
-![screenshot-20260411-182204](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第三期：上海交通大学长聘教轨助理教授杨学：如何做好系统性科研_for_zhihu/screenshot-20260411-182204.png)
+![2a711fe2-461d-4e4c-b1bb-1f684229c15b](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第三期：上海交通大学长聘教轨助理教授杨学：如何做好系统性科研_for_zhihu/2a711fe2-461d-4e4c-b1bb-1f684229c15b.png)
 
 
 
-![screenshot-20260411-182215](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第三期：上海交通大学长聘教轨助理教授杨学：如何做好系统性科研_for_zhihu/screenshot-20260411-182215.png)
+![da829286-dab2-40db-8081-a5d77cd0077b](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第三期：上海交通大学长聘教轨助理教授杨学：如何做好系统性科研_for_zhihu/da829286-dab2-40db-8081-a5d77cd0077b.png)
 
-![screenshot-20260414-101223-1](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第三期：上海交通大学长聘教轨助理教授杨学：如何做好系统性科研_for_zhihu/screenshot-20260414-101223-1.png)
+![55544d96-4335-4adc-8f50-ca7c92a80271](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第三期：上海交通大学长聘教轨助理教授杨学：如何做好系统性科研_for_zhihu/55544d96-4335-4adc-8f50-ca7c92a80271.png)
 
-![screenshot-20260414-101553](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第三期：上海交通大学长聘教轨助理教授杨学：如何做好系统性科研_for_zhihu/screenshot-20260414-101553.png)
+![dcd6a8a4-8f04-4ef1-a6d8-679c3aaee520](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第三期：上海交通大学长聘教轨助理教授杨学：如何做好系统性科研_for_zhihu/dcd6a8a4-8f04-4ef1-a6d8-679c3aaee520.png)
 

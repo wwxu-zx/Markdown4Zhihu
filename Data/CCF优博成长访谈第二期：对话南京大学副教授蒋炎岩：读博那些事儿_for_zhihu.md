@@ -26,7 +26,7 @@
 
   * [Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets](https://arxiv.org/abs/2201.02177)
 
-  ![screenshot-20260407-151015](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第二期：对话南京大学副教授蒋炎岩：读博那些事儿_for_zhihu/screenshot-20260407-151015.png)
+  ![4b18fe7d-dc59-4d4d-8d63-7baadedc4680](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第二期：对话南京大学副教授蒋炎岩：读博那些事儿_for_zhihu/4b18fe7d-dc59-4d4d-8d63-7baadedc4680.png)
 
 * **有了很好的基础，就可以看更难的东西了（难的东西一下子看不懂很正常，可能它所依赖的前置基础知识没学好**）
 
@@ -108,43 +108,43 @@
 
 ## **附录：B站视频部分截图**
 
-![screenshot-20260405-194835](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第二期：对话南京大学副教授蒋炎岩：读博那些事儿_for_zhihu/screenshot-20260405-194835.jpg)
+![fade6135-ef43-4a19-993f-e3b79e4a2c4f](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第二期：对话南京大学副教授蒋炎岩：读博那些事儿_for_zhihu/fade6135-ef43-4a19-993f-e3b79e4a2c4f.jpg)
 
 
 
-![screenshot-20260405-195047](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第二期：对话南京大学副教授蒋炎岩：读博那些事儿_for_zhihu/screenshot-20260405-195047.jpg)
+![31f4804a-9611-4926-986d-ebf4de9c3952](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第二期：对话南京大学副教授蒋炎岩：读博那些事儿_for_zhihu/31f4804a-9611-4926-986d-ebf4de9c3952.jpg)
 
 
 
-![screenshot-20260405-195323](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第二期：对话南京大学副教授蒋炎岩：读博那些事儿_for_zhihu/screenshot-20260405-195323.jpg)
+![bc7cb405-558e-4c5d-8538-d33faad02ab7](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第二期：对话南京大学副教授蒋炎岩：读博那些事儿_for_zhihu/bc7cb405-558e-4c5d-8538-d33faad02ab7.jpg)
 
 
 
-![screenshot-20260405-202748](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第二期：对话南京大学副教授蒋炎岩：读博那些事儿_for_zhihu/screenshot-20260405-202748.jpg)
+![dea64daa-34ef-41d4-9bc9-94d20ec62d6d](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第二期：对话南京大学副教授蒋炎岩：读博那些事儿_for_zhihu/dea64daa-34ef-41d4-9bc9-94d20ec62d6d.jpg)
 
 
 
-![screenshot-20260405-200034](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第二期：对话南京大学副教授蒋炎岩：读博那些事儿_for_zhihu/screenshot-20260405-200034.jpg)
+![74e54ded-d49c-4c4d-a4a5-4ff15a141aca](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第二期：对话南京大学副教授蒋炎岩：读博那些事儿_for_zhihu/74e54ded-d49c-4c4d-a4a5-4ff15a141aca.jpg)
 
 
 
-![screenshot-20260405-200142](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第二期：对话南京大学副教授蒋炎岩：读博那些事儿_for_zhihu/screenshot-20260405-200142.jpg)
+![fd723896-efed-4fff-a271-c2d2711a89bc](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第二期：对话南京大学副教授蒋炎岩：读博那些事儿_for_zhihu/fd723896-efed-4fff-a271-c2d2711a89bc.jpg)
 
 
 
-![screenshot-20260405-200441](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第二期：对话南京大学副教授蒋炎岩：读博那些事儿_for_zhihu/screenshot-20260405-200441.jpg)
+![1e8f61ae-c6f1-4e27-9fec-e85aeb142b00](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第二期：对话南京大学副教授蒋炎岩：读博那些事儿_for_zhihu/1e8f61ae-c6f1-4e27-9fec-e85aeb142b00.jpg)
 
 
 
-![screenshot-20260405-200625](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第二期：对话南京大学副教授蒋炎岩：读博那些事儿_for_zhihu/screenshot-20260405-200625.jpg)
+![7852f5aa-74f0-49e1-882d-2dcd47e4914a](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第二期：对话南京大学副教授蒋炎岩：读博那些事儿_for_zhihu/7852f5aa-74f0-49e1-882d-2dcd47e4914a.jpg)
 
 
 
-![screenshot-20260405-200941](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第二期：对话南京大学副教授蒋炎岩：读博那些事儿_for_zhihu/screenshot-20260405-200941.jpg)
+![2508e10d-37c7-4927-8cbf-d7feab43c226](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第二期：对话南京大学副教授蒋炎岩：读博那些事儿_for_zhihu/2508e10d-37c7-4927-8cbf-d7feab43c226.jpg)
 
 
 
-![screenshot-20260405-201152](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第二期：对话南京大学副教授蒋炎岩：读博那些事儿_for_zhihu/screenshot-20260405-201152.jpg)
+![0100f78e-f030-49f0-b265-976e7e26b064](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第二期：对话南京大学副教授蒋炎岩：读博那些事儿_for_zhihu/0100f78e-f030-49f0-b265-976e7e26b064.jpg)
 
-![screenshot-20260405-201203](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第二期：对话南京大学副教授蒋炎岩：读博那些事儿_for_zhihu/screenshot-20260405-201203.jpg)
+![bc86add6-9f88-4364-aa4e-8df63fea32d9](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第二期：对话南京大学副教授蒋炎岩：读博那些事儿_for_zhihu/bc86add6-9f88-4364-aa4e-8df63fea32d9.jpg)
 

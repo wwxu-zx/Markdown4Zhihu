@@ -6,7 +6,7 @@
 
 ### 1. **很多我们以为是“自身属性”的东西，其实是环境塑造的结果。**
 
-![screenshot-20260426-171459](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/screenshot-20260426-171459.png)
+![cba2701c-37f9-40b4-ac0f-0e8772ed68b9](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/cba2701c-37f9-40b4-ac0f-0e8772ed68b9.png)
 
 
 
@@ -20,13 +20,13 @@
 
     * **智能体**：我们可以把它理解成一个**系统**，它能够**感知环境、做出决策并采取行动**。
 
-    ![screenshot-20260505-214507](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/screenshot-20260505-214507.png)
+    ![60e6b20c-c194-43c8-bd96-311477636401](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/60e6b20c-c194-43c8-bd96-311477636401.png)
 
   * 如果从一个动态的角度来看，**环境在不断变得丰富**，从早期的静态图像到多模态、到开放世界的问答，再到真实的物理世界的任务。**随着环境的变化，智能体也在不断的演化**，从最初单一的感知模型（e.g., ResNet, YOLO等），逐渐发展成具备理解、推理，甚至自主行动的智能体。所以可以看到一个很明确的趋势，就&#x662F;**<span style="color: inherit; background-color: rgba(255,246,122,0.8)">环境在演化，智能也在演化。【环境影响着智能的进化】</span>**
 
-  ![screenshot-20260505-214640](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/screenshot-20260505-214640.png)
+  ![4a8bb1c3-d632-4367-8602-1e86ee19d0a0](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/4a8bb1c3-d632-4367-8602-1e86ee19d0a0.png)
 
-  ![screenshot-20260505-214705-1](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/screenshot-20260505-214705-1.png)
+  ![5280f5eb-bc6f-4eff-bb20-6ba400d43f0d](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/5280f5eb-bc6f-4eff-bb20-6ba400d43f0d.png)
 
 
 
@@ -87,7 +87,7 @@
 
 **<span style="color: inherit; background-color: rgba(255,246,122,0.8)">现在的 AI 本质上是以语言为中心的，包括所谓的多模态大模型，核心还是语言。</span>**&#x5B83;可以解一道复杂数学题、写几万行代码，但却很难帮你叠一件衣服、在你家里工作。人平时就生活在真实的物理世界里，所以这个方面是要重点突破的——从**语言智能**真正走向**物理世界的智能**。【**具身智能**】
 
-![screenshot-20260426-181633](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/screenshot-20260426-181633.png)
+![2932f6c5-0f8c-4f58-8fe5-351d85c90147](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/2932f6c5-0f8c-4f58-8fe5-351d85c90147.png)
 
 
 
@@ -97,15 +97,15 @@
 
 * **<u><span style="color: inherit; background-color: rgba(255,246,122,0.8)">AI发展的核心挑战之一是环境</span></u>**<u><span style="color: inherit; background-color: rgba(255,246,122,0.8)">。</span></u>现在的 AI 竞争，某种意义上已经<u>从拼</u>**<u><span style="color: inherit; background-color: rgba(255,246,122,0.8)">模型的能力</span></u>**<u>转变成拼</u>**<u><span style="color: inherit; background-color: rgba(255,246,122,0.8)">环境的构造能力</span></u>**。e.g., <u>大厂洗数据，其实也是在给LLM构造环境，相当于提供高质量的数据/环境，它就能学得更好。</u>**<span style="color: inherit; background-color: rgba(255,246,122,0.8)">谁能模拟更真实的环境，谁就更可能做出下一代更强的智能</span>**。
 
-![screenshot-20260426-181944-1](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/screenshot-20260426-181944-1.png)
+![aae3ee79-697b-428d-aa2c-172a88a75b13](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/aae3ee79-697b-428d-aa2c-172a88a75b13.png)
 
-![screenshot-20260510-191552-1](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/screenshot-20260510-191552-1.png)
+![18404ba8-e0c4-4676-9d7c-09751a720352](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/18404ba8-e0c4-4676-9d7c-09751a720352.png)
 
 
 
 ### 4. 训练你自己：<span style="color: inherit; background-color: rgba(255,246,122,0.8)">先成为一个“可训练”的人</span>
 
-![screenshot-20260510-191259](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/screenshot-20260510-191259.png)
+![b99da0ab-55bf-46bd-b225-244f92b5c329](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/b99da0ab-55bf-46bd-b225-244f92b5c329.png)
 
 * 讲了这么多 AI，其实人也是一样的。**我们每个人都可以看成是在环境里训练我们自己——个人就是模型，你接触的人、所在平台、互联网上的知识就是训练语料，你追求的是论文、做系统、还是真实问题，就是你的损失函数。**&#x6240;以有时候研究生发展得好不好，并不是因为模型大、所谓“我聪明”，而是这个**环境对不对、目标清不清楚、训练过程能不能持续**。这件事在 AI 发展里也能看出来——**模型架构和初始化参数其实没那么重要，最大的壁垒是数据是什么**。
 
@@ -117,9 +117,9 @@
 
 ### 5. 优化你的环境
 
-![screenshot-20260426-182808](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/screenshot-20260426-182808.png)
+![b2026596-7b00-45ab-9e07-f968b7106c36](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/b2026596-7b00-45ab-9e07-f968b7106c36.png)
 
-![screenshot-20260510-192617](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/screenshot-20260510-192617.png)
+![0eb22e07-782b-440b-8344-1ae642cd04f9](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/0eb22e07-782b-440b-8344-1ae642cd04f9.png)
 
 **第二步是找到适合自己的环境，并且主动优化它。每个人的环境其实都不完美，需要去筛选、调整、甚至重构。**
 
@@ -153,7 +153,7 @@
 
 * **<span style="color: inherit; background-color: rgba(255,246,122,0.8)">最终目标是进入一个比较正向的循环。【正反馈的循环】</span>**
 
-  ![screenshot-20260426-184315](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/screenshot-20260426-184315.png)
+  ![b5c54d3a-96ee-4bd8-b983-7c944cc68792](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/b5c54d3a-96ee-4bd8-b983-7c944cc68792.png)
 
   * 有一段时间，我们可能发现我们自己变强了，你其实<span style="color: inherit; background-color: rgba(255,246,122,0.8)">进入了一个正反馈的循环</span>。**<span style="color: inherit; background-color: rgba(255,246,122,0.8)">你的学习率很好，你的环境也很好，你的反馈也很好，这样你的model更新起来就会顺畅很多。</span>**
 
@@ -215,68 +215,68 @@
 
 ## **附录：B站视频部分截图**
 
-![screenshot-20260426-170720](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/screenshot-20260426-170720.png)
+![852bf3a8-9889-4805-862e-7dbc88bbbd07](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/852bf3a8-9889-4805-862e-7dbc88bbbd07.png)
 
 
 
-![screenshot-20260426-171459-1](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/screenshot-20260426-171459-1.png)
+![22272e7f-1705-4fe9-a2bf-1bb3182ce029](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/22272e7f-1705-4fe9-a2bf-1bb3182ce029.png)
 
 
 
-![screenshot-20260505-214507-1](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/screenshot-20260505-214507-1.png)
+![d0c87f89-88d2-4dbf-8565-f9f1415ab4c5](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/d0c87f89-88d2-4dbf-8565-f9f1415ab4c5.png)
 
 
 
-![screenshot-20260505-214534](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/screenshot-20260505-214534.png)
+![7d6f1a7d-0ac5-4b69-85b5-46bce63fa3c4](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/7d6f1a7d-0ac5-4b69-85b5-46bce63fa3c4.png)
 
 
 
-![screenshot-20260505-214546](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/screenshot-20260505-214546.png)
+![2215bf05-94d5-4020-b7e2-53a5b8f0a098](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/2215bf05-94d5-4020-b7e2-53a5b8f0a098.png)
 
 
 
-![screenshot-20260505-215012](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/screenshot-20260505-215012.png)
+![5c26cb52-5cf2-4772-91b7-06968388a47a](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/5c26cb52-5cf2-4772-91b7-06968388a47a.png)
 
 
 
-![screenshot-20260505-214912](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/screenshot-20260505-214912.png)
+![ca92f297-fb8b-4c1f-bb44-dcd9c67b8064](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/ca92f297-fb8b-4c1f-bb44-dcd9c67b8064.png)
 
 
 
-![screenshot-20260505-214640-1](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/screenshot-20260505-214640-1.png)
+![de238ed2-1625-493a-bf7e-49be43723f66](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/de238ed2-1625-493a-bf7e-49be43723f66.png)
 
 
 
-![截屏2026-05-05 21.47.05-1-1](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/截屏2026-05-05%2021.47.05-1-1.png)
+![fdd449d6-ea7f-4e3a-900a-f5e94b98e78e](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/fdd449d6-ea7f-4e3a-900a-f5e94b98e78e.png)
 
 
 
-![screenshot-20260426-181633-1](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/screenshot-20260426-181633-1.png)
+![e6aa646e-bf3a-491f-ad1f-94fee42cbd84](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/e6aa646e-bf3a-491f-ad1f-94fee42cbd84.png)
 
 
 
-![screenshot-20260426-181927](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/screenshot-20260426-181927.png)
+![3c5a13b4-c50c-4a87-ad19-e7087585499d](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/3c5a13b4-c50c-4a87-ad19-e7087585499d.png)
 
 
 
-![screenshot-20260426-181944](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/screenshot-20260426-181944.png)
+![5012fdcf-26bd-40bb-a03f-65d02410cb92](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/5012fdcf-26bd-40bb-a03f-65d02410cb92.png)
 
 
 
-![screenshot-20260510-191552](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/screenshot-20260510-191552.png)
+![05f86027-e5fe-4480-866b-6a8b4ffa7c49](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/05f86027-e5fe-4480-866b-6a8b4ffa7c49.png)
 
 
 
-![screenshot-20260510-191259-1](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/screenshot-20260510-191259-1.png)
+![32806043-accb-4fd7-b597-c86e25c58cb3](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/32806043-accb-4fd7-b597-c86e25c58cb3.png)
 
 
 
-![screenshot-20260426-182808-1](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/screenshot-20260426-182808-1.png)
+![5b72b440-ec76-40a7-a42d-0e8788529475](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/5b72b440-ec76-40a7-a42d-0e8788529475.png)
 
 
 
-![screenshot-20260510-192617-1](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/screenshot-20260510-192617-1.png)
+![080165e2-947f-477e-8ef4-00f762031d34](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/080165e2-947f-477e-8ef4-00f762031d34.png)
 
 
 
-![screenshot-20260426-184315-1](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/screenshot-20260426-184315-1.png)
+![07be6cbb-5b08-4dd4-8a56-7c9ca93db3a5](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/CCF优博成长访谈第四期：清华大学计算机系博士后国孟昊：环境与智能_for_zhihu/07be6cbb-5b08-4dd4-8a56-7c9ca93db3a5.png)

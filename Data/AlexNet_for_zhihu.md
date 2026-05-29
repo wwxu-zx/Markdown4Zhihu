@@ -26,19 +26,19 @@
 
 **ImageNet**: <https://www.image-net.org/>
 
-![c110c996081b5b52ba3a5418544540e7](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/AlexNet_for_zhihu/c110c996081b5b52ba3a5418544540e7.png)
+![cd91f3ce-a626-4fc1-895e-b662045511cf](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/AlexNet_for_zhihu/cd91f3ce-a626-4fc1-895e-b662045511cf.png)
 
-![9fc2316dce4d7713406122ada4d85d92](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/AlexNet_for_zhihu/9fc2316dce4d7713406122ada4d85d92.png)
+![0cd07c40-69ef-4323-9106-fe199ebe953f](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/AlexNet_for_zhihu/0cd07c40-69ef-4323-9106-fe199ebe953f.png)
 
 AlexNet 赢下了 2012 ImageNet 竞赛后，标注着新一轮神经网络热潮的开始。
 
 ### 1.2 CNNs
 
-![1793c88ca818f8a88e63a95f21d4a3ba](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/AlexNet_for_zhihu/1793c88ca818f8a88e63a95f21d4a3ba.png)
+![01008a70-744c-4ae1-8c80-7c0b7bc0c695](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/AlexNet_for_zhihu/01008a70-744c-4ae1-8c80-7c0b7bc0c695.png)
 
 ### 1.3 AlexNet带来第三波AI浪潮
 
-![c9bda52a1da4bdb5e800275cf47c5951](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/AlexNet_for_zhihu/c9bda52a1da4bdb5e800275cf47c5951.jpg)
+![0c67271d-0ab9-44f9-8e62-b0740a4ee4e5](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/AlexNet_for_zhihu/0c67271d-0ab9-44f9-8e62-b0740a4ee4e5.jpg)
 
 
 
@@ -50,7 +50,7 @@ AlexNet 赢下了 2012 ImageNet 竞赛后，标注着新一轮神经网络热潮
 
 * **<span style="color: inherit; background-color: rgba(255,246,122,0.8)">Learn from data（数据驱动）</span>**
 
-  ![0f66fed8dbfc762459d45999968ef9d5](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/AlexNet_for_zhihu/0f66fed8dbfc762459d45999968ef9d5.jpg)
+  ![1b4ad1f5-a31c-457e-87bd-12d6a412fb01](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/AlexNet_for_zhihu/1b4ad1f5-a31c-457e-87bd-12d6a412fb01.jpg)
 
 **注：**
 
@@ -66,7 +66,7 @@ AlexNet 赢下了 2012 ImageNet 竞赛后，标注着新一轮神经网络热潮
 
 ## 2. AlexNet架构
 
-![d1eed7b86fbb8b292ae2390a538fe44f](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/AlexNet_for_zhihu/d1eed7b86fbb8b292ae2390a538fe44f.jpg)
+![75e4c491-4013-48bd-bc2b-6e77231a44c7](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/AlexNet_for_zhihu/75e4c491-4013-48bd-bc2b-6e77231a44c7.jpg)
 
 
 
@@ -74,9 +74,9 @@ AlexNet 赢下了 2012 ImageNet 竞赛后，标注着新一轮神经网络热潮
 
 * Netscope 是一个在线可视化工具，使用它可以把 Caffe 的 .prototxt文件（定义模型结构）可视化，直观地理解模型结构和数据流动
 
-![e1fec94dfade9aad79b5a3e8795d6078](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/AlexNet_for_zhihu/e1fec94dfade9aad79b5a3e8795d6078.jpg)
+![68f92f37-bae4-47f8-b2eb-9a92483dbdc0](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/AlexNet_for_zhihu/68f92f37-bae4-47f8-b2eb-9a92483dbdc0.jpg)
 
-![7d11b1bfb5a3ae46aad48c4dd0cb7bc7](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/AlexNet_for_zhihu/7d11b1bfb5a3ae46aad48c4dd0cb7bc7.jpg)
+![17e2ef03-64d8-428d-8f16-b54c308b3038](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/AlexNet_for_zhihu/17e2ef03-64d8-428d-8f16-b54c308b3038.jpg)
 
 **注意**
 
@@ -90,7 +90,7 @@ AlexNet 赢下了 2012 ImageNet 竞赛后，标注着新一轮神经网络热潮
 
 <https://docs.pytorch.org/docs/stable/generated/torch.nn.Conv2d.html#conv2d>
 
-![85f53fca2583a39bc19933a3b3e09f13](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/AlexNet_for_zhihu/85f53fca2583a39bc19933a3b3e09f13.png)
+![809e59dc-9261-4888-ae4b-36bf35ff097a](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/AlexNet_for_zhihu/809e59dc-9261-4888-ae4b-36bf35ff097a.png)
 
 简化版的公式为：
 
@@ -100,19 +100,19 @@ AlexNet 赢下了 2012 ImageNet 竞赛后，标注着新一轮神经网络热潮
 
 **AlexNet 是更大更深的 LeNet。**&#x4E24;者对比如下：
 
-![cd576b676097e58db7f4fc62e51ee429](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/AlexNet_for_zhihu/cd576b676097e58db7f4fc62e51ee429.png)
+![67993dd5-06e6-4fab-9364-71d7d68ef129](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/AlexNet_for_zhihu/67993dd5-06e6-4fab-9364-71d7d68ef129.png)
 
-![f4f08e80736e766bb490d578c7c1f9bc](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/AlexNet_for_zhihu/f4f08e80736e766bb490d578c7c1f9bc.png)
+![f536408c-e88a-4ba5-a987-4bb5f5606891](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/AlexNet_for_zhihu/f536408c-e88a-4ba5-a987-4bb5f5606891.png)
 
-![e5ebb248adcfee73a8441dcacbb46369](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/AlexNet_for_zhihu/e5ebb248adcfee73a8441dcacbb46369.png)
+![060aa8a3-9dea-4555-87bc-78f6422dc13c](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/AlexNet_for_zhihu/060aa8a3-9dea-4555-87bc-78f6422dc13c.png)
 
 
 
-![e5cecad3fd01acabaa4f7896528c7a64](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/AlexNet_for_zhihu/e5cecad3fd01acabaa4f7896528c7a64.png)
+![a9ffaffc-d919-4d4e-a63e-1d5b00fac7ed](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/AlexNet_for_zhihu/a9ffaffc-d919-4d4e-a63e-1d5b00fac7ed.png)
 
 ## 3. 学习表征（Representations）
 
-![506c1a5125ec18abaeabda52772c9f54](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/AlexNet_for_zhihu/506c1a5125ec18abaeabda52772c9f54.png)
+![95b6fbfc-6451-4f4a-90f6-7ef58f1d7db2](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/AlexNet_for_zhihu/95b6fbfc-6451-4f4a-90f6-7ef58f1d7db2.png)
 
 如上图右侧第2行，这些大象图片之间的像素值本身非常不同，但是它们是高度相似的概念。【**semantically similar**】
 
@@ -120,11 +120,11 @@ AlexNet 确实学会了数据的高维表示。**This high dimensional space is 
 
 ## 4. 数据/算力/模型的scaling
 
-![24f4cef1a2cff9055a1fdca195b64a2e](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/AlexNet_for_zhihu/24f4cef1a2cff9055a1fdca195b64a2e.png)
+![d8fe0f3f-3eaa-43b8-8b14-9b7db53c4211](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/AlexNet_for_zhihu/d8fe0f3f-3eaa-43b8-8b14-9b7db53c4211.png)
 
-![65160aeaf641b62229aa0f18a8a3b978](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/AlexNet_for_zhihu/65160aeaf641b62229aa0f18a8a3b978.png)
+![9ca038db-eb11-4c2c-82eb-d60ba3445101](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/AlexNet_for_zhihu/9ca038db-eb11-4c2c-82eb-d60ba3445101.png)
 
-![33c1eec615a108b4213189594f4c65c8](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/AlexNet_for_zhihu/33c1eec615a108b4213189594f4c65c8.png)
+![da04fe30-861b-4278-905a-9c2d7d80ea2b](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/AlexNet_for_zhihu/da04fe30-861b-4278-905a-9c2d7d80ea2b.png)
 
 **<span style="color: inherit; background-color: rgba(255,246,122,0.8)">scale of data and compute</span>**
 

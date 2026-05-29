@@ -1,4 +1,4 @@
-![9aaeeba16b33abdd38eb23068cff080a](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/Career%20Advice%20from%20Andrew%20Ng_for_zhihu/9aaeeba16b33abdd38eb23068cff080a.png)
+![5c285428-234b-43e3-95ea-2aaa41ee93fb](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/Career%20Advice%20from%20Andrew%20Ng_for_zhihu/5c285428-234b-43e3-95ea-2aaa41ee93fb.png)
 
 **核心就是<span style="color: inherit; background-color: rgba(255,246,122,0.8)">专注于做重要的工作。</span>**
 
@@ -16,7 +16,7 @@
 
 * **构建纵向能力**：可以通过做相关项目、开源贡献、研究和实习来构建。
 
-  ![a04309e5fcb274a2c4e6fd02ca6e7e76](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/Career%20Advice%20from%20Andrew%20Ng_for_zhihu/a04309e5fcb274a2c4e6fd02ca6e7e76.png)
+  ![26de21ea-1c01-4a1b-bd18-05507d4c55f3](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/Career%20Advice%20from%20Andrew%20Ng_for_zhihu/26de21ea-1c01-4a1b-bd18-05507d4c55f3.png)
 
 
 
@@ -88,7 +88,7 @@
 
 在信息爆炸的今天，尤其要注意这一点。
 
-![373e2167204282461471dd4e010f4b96](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/Career%20Advice%20from%20Andrew%20Ng_for_zhihu/373e2167204282461471dd4e010f4b96.png)
+![4f9588a9-51c8-485b-af2c-3d1805c4afda](https://cdn.jsdmirror.com/gh/wwxu-zx/Markdown4Zhihu@master/Data/Career%20Advice%20from%20Andrew%20Ng_for_zhihu/4f9588a9-51c8-485b-af2c-3d1805c4afda.png)
 
 **来自吴恩达老师对大家的鼓励：**
 
